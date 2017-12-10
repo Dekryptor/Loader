@@ -1,8 +1,8 @@
 {
   "StaticFiles": {
     "Dependencies\\EloBuddy.Unmanaged.dll": {
-      "MD5": "2c32bce6e81e665d562bc6bea02be37b",
-      "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.Unmanaged.dll"
+      "MD5": "418d9dcfe973334743c86588e3c5f25a",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/EloBuddy.Unmanaged.dll"
     },
     "Dependencies\\git2-6b36945.dll": {
       "MD5": "720047d08ae0936e6a8c689d9dcc31a6",
@@ -13,12 +13,16 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/LibGit2Sharp.dll"
     },
     "System\\EloBuddy.Sandbox.dll": {
-      "MD5": "6e0822d159a89dfbbb5bf6bb6a0a1dff",
-      "Download": "https://github.com/Dekryptor/Loader/raw/master/UpdatedFiles/EloBuddy.Sandbox.dll"
+      "MD5": "d2892402ea8640e47fa841a6220bcc7f",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Sandbox.dll"
+    },
+    "System\\EloBuddy.Fedora.dll": {
+      "MD5": "f878d212e41691db1d16212fb6688d72",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Fedora.dll"
     },
     "System\\EloBuddy.SDK.dll": {
-      "MD5": "f560bf52c776cef2b35153ccb1311b06",
-      "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.SDK.dll"
+      "MD5": "f02b22b955d8f50c962c402d9c93a692",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.SDK.dll"
     },
     "System\\Newtonsoft.Json.dll": {
       "MD5": "95e24268172c8908f5b2c906b90a92a7",
@@ -53,8 +57,8 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/Loader.exe.config"
     },
     "Dependencies\\EloBuddy.Networking.dll": {
-      "MD5": "0b567727abd54b690cce24a238376ac7",
-      "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.Networking.dll"
+      "MD5": "930f59fe04cc2f72653e92c78a2e9233",
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/EloBuddy.Networking.dll"
     },
     "Settings\\Languages\\Chinese.xml": {
       "MD5": "24cbd6b017ee9cfebed052611f4014a5",
