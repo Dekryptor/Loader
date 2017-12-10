@@ -21,8 +21,8 @@
       "Download": "https://github.com/Dekryptor/Loader/raw/master/TestFiles/EloBuddy.Fedora.dll"
     },
     "System\\EloBuddy.SDK.dll": {
-      "MD5": "5b3d1a7d6a13890ffe5ba95a83a43765",
-      "Download": "https://github.com/Dekryptor/Loader/raw/master/TestFiles/EloBuddy.SDK.dll"
+      "MD5": "f560bf52c776cef2b35153ccb1311b06",
+      "Download": "https://github.com/Dekryptor/Loader/raw/master/UpdatedFiles/EloBuddy.SDK.dll"
     },
     "System\\Newtonsoft.Json.dll": {
       "MD5": "95e24268172c8908f5b2c906b90a92a7",
@@ -405,8 +405,8 @@
     "c732379f4a7ae3962fd50e46b5008e77": {
       "Files": {
         "System\\EloBuddy.dll": {
-          "MD5": "c031c58214d13dc1c60a0c175b91e20b",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/7.16/EloBuddy.dll"
+          "MD5": "854d63a58483e0c49ccc224b0f6d4fab",
+          "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.dll"
         },
         "System\\EloBuddy.Core.dll": {
           "MD5": "cecadf55ec4a04fcd5c4ab4582ba9bf2",
@@ -417,8 +417,8 @@
     "c732379f4a7ae3962fd50e46b5008e77": {
       "Files": {
         "System\\EloBuddy.dll": {
-          "MD5": "c031c58214d13dc1c60a0c175b91e20b",
-          "Download": "https://github.com/Dekryptor/Loader/blob/master/TestFiles/EloBuddy.dll"
+          "MD5": "854d63a58483e0c49ccc224b0f6d4fab",
+          "Download": "https://github.com/Dekryptor/Loader/blob/master/UpdatedFiles/EloBuddy.dll"
         },
         "System\\EloBuddy.Core.dll": {
           "MD5": "cecadf55ec4a04fcd5c4ab4582ba9bf2",
