@@ -398,7 +398,7 @@
         }
       }
     },
-    "c732379f4a7ae3962fd50e46b5008e77": {
+    "c732379f4a7ae3962fd50e46b5008x77": {
       "Files": {
         "System\\EloBuddy.dll": {
           "MD5": "854d63a58483e0c49ccc224b0f6d4fab",
@@ -406,7 +406,7 @@
         },
         "System\\EloBuddy.Core.dll": {
           "MD5": "cecadf55ec4a04fcd5c4ab4582ba9bf2",
-          "Download": "https://github.com/Dekryptor/Loader/blob/master/UpdatedFiles/EloBuddy.Core.dll"
+          "Download": "https://github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.Core.dll"
         }
       }
     },
@@ -418,7 +418,7 @@
         },
         "System\\EloBuddy.Core.dll": {
           "MD5": "711ed0f71b5d76ab859c817712468a97",
-          "Download": "https://github.com/Dekryptor/Loader/blob/master/UpdatedFiles/EloBuddy.Core.dll"
+          "Download": "https://github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.Core.dll"
         }
       }
     }
