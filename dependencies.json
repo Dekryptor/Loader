@@ -57,8 +57,8 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/Loader.exe.config"
     },
     "Dependencies\\EloBuddy.Networking.dll": {
-      "MD5": "930f59fe04cc2f72653e92c78a2e9233",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/EloBuddy.Networking.dll"
+      "MD5": "0b567727abd54b690cce24a238376ac7",
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.Networking.dll"
     },
     "Settings\\Languages\\Chinese.xml": {
       "MD5": "24cbd6b017ee9cfebed052611f4014a5",
