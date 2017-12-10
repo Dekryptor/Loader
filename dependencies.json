@@ -21,8 +21,8 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Fedora.dll"
     },
     "System\\EloBuddy.SDK.dll": {
-      "MD5": "f02b22b955d8f50c962c402d9c93a692",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.SDK.dll"
+      "MD5": "f560bf52c776cef2b35153ccb1311b06",
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.SDK.dll"
     },
     "System\\Newtonsoft.Json.dll": {
       "MD5": "95e24268172c8908f5b2c906b90a92a7",
