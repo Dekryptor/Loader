@@ -16,10 +16,6 @@
       "MD5": "6e0822d159a89dfbbb5bf6bb6a0a1dff",
       "Download": "https://github.com/Dekryptor/Loader/raw/master/UpdatedFiles/EloBuddy.Sandbox.dll"
     },
-    "System\\EloBuddy.Fedora.dll": {
-      "MD5": "f878d212e41691db1d16212fb6688d72",
-      "Download": "https://github.com/Dekryptor/Loader/raw/master/TestFiles/EloBuddy.Fedora.dll"
-    },
     "System\\EloBuddy.SDK.dll": {
       "MD5": "f560bf52c776cef2b35153ccb1311b06",
       "Download": "https://github.com/Dekryptor/Loader/raw/master/UpdatedFiles/EloBuddy.SDK.dll"
