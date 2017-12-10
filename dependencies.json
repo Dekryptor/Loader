@@ -13,8 +13,8 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/LibGit2Sharp.dll"
     },
     "System\\EloBuddy.Sandbox.dll": {
-      "MD5": "333828515e44b611fbfd0cfbfac3e974",
-      "Download": "https://github.com/Dekryptor/Loader/raw/master/TestFiles/EloBuddy.Sandbox.dll"
+      "MD5": "6e0822d159a89dfbbb5bf6bb6a0a1dff",
+      "Download": "https://github.com/Dekryptor/Loader/raw/master/UpdatedFiles/EloBuddy.Sandbox.dll"
     },
     "System\\EloBuddy.Fedora.dll": {
       "MD5": "f878d212e41691db1d16212fb6688d72",
