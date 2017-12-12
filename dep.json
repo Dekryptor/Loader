@@ -413,11 +413,11 @@
     "c732379f4a7ae3962fd50e46b5008e77": {
       "Files": {
         "System\\EloBuddy.dll": {
-          "MD5": "847f64e870c177e20e6749b188ca2e6a",
+          "MD5": "616a2ee7122fac7ac713fc772f752e7d",
           "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.dll"
         },
         "System\\EloBuddy.Core.dll": {
-          "MD5": "dd3fad0147401a02388d650e0e06c9d6",
+          "MD5": "60b7f9adbb3ed0062c7be2ae94d91747",
           "Download": "https://github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.Core.dll"
         }
       }
