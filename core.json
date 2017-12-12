@@ -688,6 +688,15 @@
       "changes": [
         "Updated 7.24"
       ]
+    },
+    {
+      "md5": [
+        "dd3fad0147401a02388d650e0e06c9d6"
+      ],
+      "build": "1010",
+      "changes": [
+        "Just hotfix"
+      ]
     }
   ]
 }
