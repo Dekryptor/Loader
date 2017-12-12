@@ -1,7 +1,7 @@
 {
   "StaticFiles": {
     "Dependencies\\EloBuddy.Unmanaged.dll": {
-      "MD5": "418d9dcfe973334743c86588e3c5f25a",
+      "MD5": "094898845240d3c7f99dc6c493ab76b7",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/EloBuddy.Unmanaged.dll"
     },
     "Dependencies\\git2-6b36945.dll": {
@@ -13,15 +13,11 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/LibGit2Sharp.dll"
     },
     "System\\EloBuddy.Sandbox.dll": {
-      "MD5": "d2892402ea8640e47fa841a6220bcc7f",
+      "MD5": "4ae371f008167c180ec75c3844039cc7",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Sandbox.dll"
     },
-    "System\\EloBuddy.Fedora.dll": {
-      "MD5": "f878d212e41691db1d16212fb6688d72",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Fedora.dll"
-    },
     "System\\EloBuddy.SDK.dll": {
-      "MD5": "f02b22b955d8f50c962c402d9c93a692",
+      "MD5": "ee9ca375cd625d9bdac4dd58f8397044",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.SDK.dll"
     },
     "System\\Newtonsoft.Json.dll": {
@@ -57,7 +53,7 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/Loader.exe.config"
     },
     "Dependencies\\EloBuddy.Networking.dll": {
-      "MD5": "930f59fe04cc2f72653e92c78a2e9233",
+      "MD5": "73b588fc4698a62b1eaf003a577b92Bd",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/EloBuddy.Networking.dll"
     },
     "Settings\\Languages\\Chinese.xml": {
@@ -428,7 +424,7 @@
     }
   },
   "Loader": {
-    "MD5": "b2579ac125ec2d6f63c05f1873b33690",
+    "MD5": "705996c0c23b2d94a622bf1a8c204717",
     "Download": "https://github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.Loader.exe"
   }
 }
