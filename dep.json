@@ -53,7 +53,7 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/Loader.exe.config"
     },
     "Dependencies\\EloBuddy.Networking.dll": {
-      "MD5": "73b588fc4698a62b1eaf003a577b92Bd",
+      "MD5": "73b588fc4698a62b1eaf003a577b92bd",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/EloBuddy.Networking.dll"
     },
     "Settings\\Languages\\Chinese.xml": {
