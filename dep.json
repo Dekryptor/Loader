@@ -2,7 +2,7 @@
   "StaticFiles": {
     "Dependencies\\EloBuddy.Unmanaged.dll": {
       "MD5": "094898845240d3c7f99dc6c493ab76b7",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/EloBuddy.Unmanaged.dll"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.Unmanaged.dll"
     },
     "Dependencies\\git2-6b36945.dll": {
       "MD5": "720047d08ae0936e6a8c689d9dcc31a6",
@@ -54,7 +54,7 @@
     },
     "Dependencies\\EloBuddy.Networking.dll": {
       "MD5": "73b588fc4698a62b1eaf003a577b92bd",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/EloBuddy.Networking.dll"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.Networking.dll"
     },
     "Settings\\Languages\\Chinese.xml": {
       "MD5": "24cbd6b017ee9cfebed052611f4014a5",
