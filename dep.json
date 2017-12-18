@@ -14,11 +14,11 @@
     },
     "System\\EloBuddy.Sandbox.dll": {
       "MD5": "4ae371f008167c180ec75c3844039cc7",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Sandbox.dll"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.Sandbox.dll"
     },
     "System\\EloBuddy.SDK.dll": {
       "MD5": "ee9ca375cd625d9bdac4dd58f8397044",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.SDK.dll"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.SDK.dll"
     },
     "System\\Newtonsoft.Json.dll": {
       "MD5": "95e24268172c8908f5b2c906b90a92a7",
