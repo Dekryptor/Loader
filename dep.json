@@ -2,7 +2,7 @@
   "StaticFiles": {
     "Dependencies\\EloBuddy.Unmanaged.dll": {
       "MD5": "094898845240d3c7f99dc6c493ab76b7",
-      "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.Unmanaged.dll"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/Dependencies/EloBuddy.Unmanaged.dll"
     },
     "Dependencies\\git2-6b36945.dll": {
       "MD5": "720047d08ae0936e6a8c689d9dcc31a6",
@@ -22,7 +22,7 @@
     },
     "System\\Newtonsoft.Json.dll": {
       "MD5": "95e24268172c8908f5b2c906b90a92a7",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/Newtonsoft.Json.dll"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/System/Newtonsoft.Json.dll"
     },
     "System\\SharpDX.Direct3D9.dll": {
       "MD5": "b64939d8f4e6658d90ad9c344994553b",
@@ -42,15 +42,15 @@
     },
     "Dependencies\\PresentationFramework.dll": {
       "MD5": "51c66aaf61704529cf7385ce45c5f6e4",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/PresentationFramework.dll"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/Dependencies/PresentationFramework.dll"
     },
     "Dependencies\\PresentationFramework.Aero.dll": {
-      "MD5": "7959172ca21de68f8209c9bb2e20ca90",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/PresentationFramework.Aero.dll"
+      "MD5": "ef8d5da8a23a6d3e759334251a12128c",
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/Dependencies/PresentationFramework.Aero.dll"
     },
     "EloBuddy.Loader.exe.config": {
       "MD5": "a784fd38760b0c34c601fdce1ceaf89a",
-      "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/Loader.exe.config"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/Loader/Loader.exe.config"
     },
     "Dependencies\\EloBuddy.Networking.dll": {
       "MD5": "73b588fc4698a62b1eaf003a577b92bd",
@@ -113,8 +113,8 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/LogentriesNLog.dll"
     },
     "Dependencies\\Microsoft.WindowsAzure.Configuration.dll": {
-      "MD5": "7dda2559e91d55da6f4192f03e2b12dc",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/Microsoft.WindowsAzure.Configuration.dll"
+      "MD5": "7134c1c88801689c001744784ac475b3",
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/Dependencies/Microsoft.WindowsAzure.Configuration.dll"
     },
     "Dependencies\\NLog.dll": {
       "MD5": "0aea243147e3483873bc1cddab71916d",
