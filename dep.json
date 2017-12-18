@@ -50,7 +50,7 @@
     },
     "EloBuddy.Loader.exe.config": {
       "MD5": "a784fd38760b0c34c601fdce1ceaf89a",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/Loader.exe.config"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/Loader.exe.config"
     },
     "Dependencies\\EloBuddy.Networking.dll": {
       "MD5": "73b588fc4698a62b1eaf003a577b92bd",
@@ -136,7 +136,7 @@
     }
   },
   "Loader": {
-    "MD5": "de6cc83ce65790ead9eeac42cb4998a2",
+    "MD5": "292df12285ae8f1f05cf688cc20999a7",
     "Download": "https://github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.Loader.exe"
   }
 }
