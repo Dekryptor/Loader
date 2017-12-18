@@ -6,19 +6,19 @@
     },
     "Dependencies\\git2-6b36945.dll": {
       "MD5": "720047d08ae0936e6a8c689d9dcc31a6",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/git2-6b36945.dll"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/Dependencies/git2-6b36945.dll"
     },
     "Dependencies\\LibGit2Sharp.dll": {
       "MD5": "b77f5f6e2b0a1d128753470ebf4c8e68",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/LibGit2Sharp.dll"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/Dependencies/LibGit2Sharp.dll"
     },
     "System\\EloBuddy.Sandbox.dll": {
       "MD5": "4ae371f008167c180ec75c3844039cc7",
-      "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.Sandbox.dll"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/System/EloBuddy.Sandbox.dll"
     },
     "System\\EloBuddy.SDK.dll": {
       "MD5": "ee9ca375cd625d9bdac4dd58f8397044",
-      "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.SDK.dll"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/System/EloBuddy.SDK.dll"
     },
     "System\\Newtonsoft.Json.dll": {
       "MD5": "95e24268172c8908f5b2c906b90a92a7",
@@ -26,19 +26,19 @@
     },
     "System\\SharpDX.Direct3D9.dll": {
       "MD5": "b64939d8f4e6658d90ad9c344994553b",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/SharpDX.Direct3D9.dll"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/System/SharpDX.Direct3D9.dll"
     },
     "System\\SharpDX.dll": {
       "MD5": "9e2ae61790b003ce712fd7e436be0c49",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/SharpDX.dll"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/System/SharpDX.dll"
     },
     "System\\SharpDX.XInput.dll": {
       "MD5": "b395389e49726656ab20c26ee631a28b",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/SharpDX.XInput.dll"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/System/SharpDX.XInput.dll"
     },
     "Dependencies\\Newtonsoft.Json.dll": {
       "MD5": "95e24268172c8908f5b2c906b90a92a7",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/Newtonsoft.Json.dll"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/Dependencies/Newtonsoft.Json.dll"
     },
     "Dependencies\\PresentationFramework.dll": {
       "MD5": "51c66aaf61704529cf7385ce45c5f6e4",
@@ -54,7 +54,7 @@
     },
     "Dependencies\\EloBuddy.Networking.dll": {
       "MD5": "73b588fc4698a62b1eaf003a577b92bd",
-      "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.Networking.dll"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/Dependencies/EloBuddy.Networking.dll"
     },
     "Settings\\Languages\\Chinese.xml": {
       "MD5": "24cbd6b017ee9cfebed052611f4014a5",
@@ -118,7 +118,7 @@
     },
     "Dependencies\\NLog.dll": {
       "MD5": "0aea243147e3483873bc1cddab71916d",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/NLog.dll"
+      "Download": "https://raw.github.com/Dekryptor/Loader/master/Dependencies/NLog.dll"
     }
   },
   "Patches": {
@@ -126,17 +126,17 @@
       "Files": {
         "System\\EloBuddy.dll": {
           "MD5": "596a21ebed3ed60480488b2378f3fcd9",
-          "Download": "https://raw.github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.dll"
+          "Download": "https://raw.github.com/Dekryptor/Loader/master/System/EloBuddy.dll"
         },
         "System\\EloBuddy.Core.dll": {
           "MD5": "d273f2ebbfd329f6611d118246daf061",
-          "Download": "https://github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.Core.dll"
+          "Download": "https://github.com/Dekryptor/Loader/master/System/EloBuddy.Core.dll"
         }
       }
     }
   },
   "Loader": {
     "MD5": "292df12285ae8f1f05cf688cc20999a7",
-    "Download": "https://github.com/Dekryptor/Loader/master/UpdatedFiles/EloBuddy.Loader.exe"
+    "Download": "https://github.com/Dekryptor/Loader/master/Loader/EloBuddy.Loader.exe"
   }
 }
